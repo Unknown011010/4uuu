@@ -1,0 +1,54 @@
+body {
+        font-size: 15pt;
+            text-align: center;
+                background-color: peachpuff;
+                    
+                    }
+                    img {
+                        width: 100px;
+                            height: auto;
+                                margin-top: 5px;
+                                }
+                                button {
+                                    width: 10vh;
+                                        height: 5vh;
+                                        }
+                                        .no {
+                                            background-color: indianred;
+                                                color: white;
+                                                    font-weight: bold;
+                                                    }
+                                                    .yes{
+                                                        background-color: greenyellow;
+                                                            color: black;
+                                                                font-weight: bold;
+                                                                }
+                                                                #no2 {
+                                                                    width: 8vh;
+                                                                        height: 4vh;
+                                                                        }
+                                                                        #yes2 {
+                                                                            width: 12vh;
+                                                                                height: 6vh;
+                                                                                }
+                                                                                #no3 {
+                                                                                    width: 6vh;
+                                                                                        height: 3vh;
+                                                                                        }
+                                                                                        #yes3 {
+                                                                                            width: 14vh;
+                                                                                                height: 7vh;
+                                                                                                }
+                                                                                                #no4 {
+                                                                                                    width: 5vh;
+                                                                                                        height: 2.5vh;
+                                                                                                        }
+                                                                                                        #yes4 {
+                                                                                                            width: 20vh;
+                                                                                                                height: 10vh;
+                                                                                                                }
+                                                                                                                #yes5 {
+                                                                                                                    width: 50vh;
+                                                                                                                        height: 30vh;
+                                                                                                                        }
+}
